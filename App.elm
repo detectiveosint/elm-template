@@ -12,7 +12,7 @@ type alias Model =
 
 init : ( Model, Cmd Msg )
 init =
-    ( "Hello decoder", Cmd.none )
+    ( "Hello", Cmd.none )
 
 
 
